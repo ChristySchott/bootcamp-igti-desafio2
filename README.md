@@ -52,7 +52,7 @@ Criar uma aplicação para filtrar usuários e mostrar estatísticas a partir do
 Resultado final: 
 
 
-![Layout Projeto](https://github.com/ChristySchott/bootcamp-igti-desafio2/blob/master/layout.gif)
+![Layout Projeto](https://github.com/ChristySchott/bootcamp-igti-desafio2/blob/master/gif.gif)
 
 ## :memo: Licença
 
